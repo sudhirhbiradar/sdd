@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[name is supriy]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59" started-at="2019-09-27T20:52:29 IST" finished-at="2019-09-27T20:52:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59" started-at="2019-09-27T20:52:29 IST" finished-at="2019-09-27T20:52:29 IST">
+      <class name="mangalbhairav.nandedcity.A11">
+        <test-method status="PASS" signature="supriya()[pri:0, instance:mangalbhairav.nandedcity.A11@3327bd23]" name="supriya" duration-ms="11" started-at="2019-09-27T20:52:29 IST" finished-at="2019-09-27T20:52:29 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[name is supriy]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- supriya -->
+      </class> <!-- mangalbhairav.nandedcity.A11 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
